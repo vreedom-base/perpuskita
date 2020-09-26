@@ -56,16 +56,22 @@ Sebelum menggunakan projek ini, diperlukanya [nodejs](https://nodejs.org/):
 
 1. Unduh terlebih dahulu [Github CLI](https://cli.github.com/)
 2. Lalu buat [auth token](https://github.com/settings/tokens) baru (opsional: jika belum ada token)
-3. Clone `perpuskita`
+3. Clone [projek ini](https://github.com/vreedom-base/perpuskita)
    ```gh
    gh repo clone vreedom-base/perpuskita
    ```
-4. Pindah direktori `cd perpuskita/`
+4. Pindah ke direktori 
+   ```
+   cd perpuskita
+   ```
 5. Instal NPM packages
    ```sh
    npm install
    ```
-5. Jalankan aplikasi `ionic serve`
+5. Jalankan aplikasi 
+   ```
+   ionic serve
+   ```
 
 ## Petunjuk
 
