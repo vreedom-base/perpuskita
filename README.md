@@ -29,7 +29,7 @@
 
 ## Tentang perpuskita
 
-Perpuskita merupakan suatu aplikasi perpustakaan yang dapat diakses secara daring dan dapat meminjam & mengembalikan buku menggunakan yang dapat digunakan diberbagai platform. Akses perpus dimana saja!
+Perpuskita merupakan suatu aplikasi perpustakaan yang dapat diakses secara daring dan dapat meminjam dan mengembalikan buku menggunakan yang dapat digunakan diberbagai platform. Akses perpus dimana saja!
 
 ### Dibuat Menggunakan
 * [Ionic](https://ionicframework.com/)
@@ -48,23 +48,23 @@ To get a local copy up and running follow these simple example steps.
 
 Sebelum menggunakan projek ini, diperlukanya [nodejs](https://nodejs.org/):
 * npm
-```sh
-npm install npm@latest -g
-```
+  ```sh
+  npm install npm@latest -g
+  ```
 
 ### Instalasi
 
 1. Unduh terlebih dahulu [Github CLI](https://cli.github.com/)
 2. Lalu buat [auth token](https://github.com/settings/tokens) baru (opsional: jika belum ada token)
 3. Clone `perpuskita`
-```gh
-gh repo clone vreedom-base/perpuskita
-```
+   ```gh
+   gh repo clone vreedom-base/perpuskita
+   ```
 4. Pindah direktori `cd perpuskita/`
 5. Instal NPM packages
-```sh
-npm install
-```
+   ```sh
+   npm install
+   ```
 5. Jalankan aplikasi `ionic serve`
 
 ## Petunjuk
