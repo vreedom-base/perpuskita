@@ -1,0 +1,7 @@
+{
+  "name": "perpuskita",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
