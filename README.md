@@ -29,7 +29,7 @@
 
 ## Tentang perpuskita
 
-Perpuskita merupakan suatu aplikasi perpustakaan yang dapat diakses secara daring dan dapat meminjam dan mengembalikan buku menggunakan yang dapat digunakan diberbagai platform. Akses perpus dimana saja!
+Perpuskita merupakan suatu aplikasi perpustakaan yang dapat diakses secara daring dan dapat meminjam dan mengembalikan buku menggunakan yang dapat digunakan diberbagai platform. Akses perpustakaan dimana saja!
 
 ### Dibuat Menggunakan
 * [Ionic](https://ionicframework.com/)
