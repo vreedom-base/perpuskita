@@ -57,7 +57,7 @@ Sebelum menggunakan projek ini, diperlukanya [nodejs](https://nodejs.org/):
 1. Unduh terlebih dahulu [Github CLI](https://cli.github.com/)
 2. Lalu buat [auth token](https://github.com/settings/tokens) baru (opsional)
 3. `Clone` [projek ini](https://github.com/vreedom-base/perpuskita)
-   ```git
+   ```sh
    gh repo clone vreedom-base/perpuskita
    ```
 4. Pindah ke direktori 
@@ -83,16 +83,16 @@ Kontribusi adalah yang membuat komunitas open source menjadi tempat yang luar bi
 
 1. `Fork` [projek ini](https://github.com/vreedom-base/perpuskita)
 2. Buat Fitur dan `Branch` Anda
-   ```git
-   git checkout -b fitur_baru_branch
+   ```sh
+   git checkout -b fitur/NamaFiturBaru
    ```
 3. `Commit` Perubahan Anda 
-   ```git
+   ```sh
    git commit -m 'Tambah Fitur Baru'
    ```
 4. Unggah ke `Branch`
-   ```git
-   git push origin fitur_baru_branch
+   ```sh
+   git push origin fitur/NamaFiturBaru
    ```
 5. Lalu Buka `Pull Request`
 
