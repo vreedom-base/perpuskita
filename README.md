@@ -6,7 +6,7 @@
   <p align="center">
     Akses perpus dimana saja!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Lihat Demo</a>
+    <a href="https://github.com/vreedom-base/perpuskita">Lihat Demo</a>
     ·
     <a href="https://github.com/vreedom-base/perpuskita/issues">Laporkan Kesalahan</a>
     ·
@@ -55,13 +55,13 @@ Sebelum menggunakan projek ini, diperlukanya [nodejs](https://nodejs.org/):
 ### Instalasi
 
 1. Unduh terlebih dahulu [Github CLI](https://cli.github.com/)
-2. Lalu buat [auth token](https://github.com/settings/tokens) baru (opsional: jika belum ada token)
-3. Clone [projek ini](https://github.com/vreedom-base/perpuskita)
-   ```gh
+2. Lalu buat [auth token](https://github.com/settings/tokens) baru (opsional)
+3. `Clone` [projek ini](https://github.com/vreedom-base/perpuskita)
+   ```git
    gh repo clone vreedom-base/perpuskita
    ```
 4. Pindah ke direktori 
-   ```
+   ```sh
    cd perpuskita
    ```
 5. Instal NPM packages
@@ -69,7 +69,7 @@ Sebelum menggunakan projek ini, diperlukanya [nodejs](https://nodejs.org/):
    npm install
    ```
 5. Jalankan aplikasi 
-   ```
+   ```sh
    ionic serve
    ```
 
@@ -81,11 +81,20 @@ Lihat [open issues](https://github.com/vreedom-base/perpuskita/issues) untuk daf
 
 Kontribusi adalah yang membuat komunitas open source menjadi tempat yang luar biasa untuk belajar, menginspirasi, dan berkreasi. Setiap kontribusi yang Anda berikan ** sangat dihargai **.
 
-1. Fork `perpuskita` ini
-2. Buat Fitur `Branch` Anda (`git checkout -b feature / FiturLuarBiasa`)
-3. `Commit` Perubahan Anda (`git commit -m 'Add some FiturLuarBiasa'`)
-4. `Push` ke `Branch` (`git push origin feature / FiturLuarBiasa`)
-5. Buka `Pull Request`
+1. `Fork` [projek ini](https://github.com/vreedom-base/perpuskita)
+2. Buat Fitur dan `Branch` Anda
+   ```git
+   git checkout -b fitur_baru_branch
+   ```
+3. `Commit` Perubahan Anda 
+   ```git
+   git commit -m 'Tambah Fitur Baru'
+   ```
+4. Unggah ke `Branch`
+   ```git
+   git push origin fitur_baru_branch
+   ```
+5. Lalu Buka `Pull Request`
 
 ## Lisensi
 
