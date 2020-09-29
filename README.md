@@ -4,7 +4,7 @@
   </a>
   
   <p align="center">
-    Akses perpus dimana saja!
+    Akses perpustakaan dimana saja!
     <br />
     <a href="https://github.com/vreedom-base/perpuskita">Lihat Demo</a>
     ·
@@ -41,8 +41,7 @@ Perpuskita merupakan suatu aplikasi perpustakaan yang dapat diakses secara darin
 
 ## Mulai
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Sebelum melakukan instalasi projek `perpuskita` ada baiknya perhatikan hal-hal berikut ini:
 
 ### Prasyarat
 
