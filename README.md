@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://laravel.com" target="_blank">
+  <a href="https://vonso.online" target="_blank">
     <img src="https://raw.githubusercontent.com/vreedom-base/perpuskita/master/public/assets/icon/icon.svg" width="200">
   </a>
   
@@ -29,7 +29,7 @@
 
 ## Tentang perpuskita
 
-Perpuskita merupakan suatu aplikasi perpustakaan yang dapat diakses secara daring dan dapat meminjam dan mengembalikan buku menggunakan yang dapat digunakan diberbagai platform. Akses perpustakaan dimana saja!
+Perpuskita merupakan suatu aplikasi perpustakaan yang dapat meminjam dan mengembalikan buku secara daring dengan menggunakan berbagai media platform. Akses perpustakaan dimana saja!
 
 ### Dibuat Menggunakan
 * [Ionic](https://ionicframework.com/)
